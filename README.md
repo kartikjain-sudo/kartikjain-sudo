@@ -12,14 +12,13 @@
 
 - 🏫 I'm a computer science Engineering Graduate (2017-2021).
 
+<a href="https://octodex.github.com/codercat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
+
 - 🔭 I’m currently working on [TSDR](https://github.com/kartikjain-sudo/Traffic-Signal-Classifier)
 
 - 📝 I write articles on [dev.to](https://dev.to/kartikjainsudo)
 
 - 🧍‍♂️ I'm currently a member at [Rapid Innovation](https://rapidinnovation.dev/)
-
-
-<a href="https://octodex.github.com/codercat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
 
 - 💻 I'm currently learning Blockchain & Web app development
 
