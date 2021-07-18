@@ -18,7 +18,7 @@
 
 - 🧍‍♂️ I'm currently a member at [Rapid Innovation](https://rapidinnovation.dev/)
 
-<a href="https://octodex.github.com/codercat/"><img src="https://octodex.github.com/images/codercat.jpg" width="300"  align="Right"></a>
+<a href="https://octodex.github.com/codercat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
 
 - 💻 I'm currently learning Blockchain & Web app development
 
