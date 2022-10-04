@@ -42,11 +42,19 @@
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=kartikjain-sudo&theme=radical"/>
+</p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikjain-sudo&theme=radical"/>
+</p>
 
 ## ✍ My Work
-
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikjain-sudo&show_icons=true&theme=radical)
+![Kartik's Consistency](https://github-readme-streak-stats.herokuapp.com/?user=kartikjain-sudo&theme=radical)
 
 
 ## 🤝 Connect
