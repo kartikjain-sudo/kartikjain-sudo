@@ -53,8 +53,10 @@
 </p>
 
 ## ✍ My Work
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikjain-sudo&show_icons=true&theme=radical)
-![Kartik's Consistency](https://github-readme-streak-stats.herokuapp.com/?user=kartikjain-sudo&theme=radical)
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikjain-sudo&show_icons=true&theme=radical" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikjain-sudo&theme=radical" />
+</p>
 
 
 ## 🤝 Connect
